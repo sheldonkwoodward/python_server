@@ -1,4 +1,4 @@
-x[![Build Status](https://travis-ci.org/prestoncarman/python_server.svg?branch=develop)](https://travis-ci.org/prestoncarman/python_server)
+[![Build Status](https://travis-ci.org/prestoncarman/python_server.svg?branch=develop)](https://travis-ci.org/prestoncarman/python_server)
 [![Maintainability](https://api.codeclimate.com/v1/badges/836030dc57f2e2a4bd9b/maintainability)](https://codeclimate.com/github/prestoncarman/python_server/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/836030dc57f2e2a4bd9b/test_coverage)](https://codeclimate.com/github/prestoncarman/python_server/test_coverage)
 [![codebeat badge](https://codebeat.co/badges/dd21c596-ed9f-42b1-8101-edc120b333ec)](https://codebeat.co/projects/github-com-prestoncarman-python_server-develop)
